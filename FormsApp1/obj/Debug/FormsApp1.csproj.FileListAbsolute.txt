@@ -1,0 +1,10 @@
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe.config
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\bin\Debug\FormsApp1.pdb
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.AssemblyReference.cache
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Form1.resources
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Properties.Resources.resources
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.GenerateResource.cache
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.exe
+C:\Users\hossein-win\source\repos\FormsApp1\FormsApp1\obj\Debug\FormsApp1.pdb
