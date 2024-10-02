@@ -139,7 +139,7 @@ namespace FormsApp1
                     }
                 case "button7":
                     {
-                        return Check_vertical(currentButtons, 1) || Check_horizental(currentButtons, 3) || Check_diagonal(currentButtons, 1);
+                        return Check_vertical(currentButtons, 1) || Check_horizental(currentButtons, 3) || Check_diagonal(currentButtons, 2);
                     }
                 case "button8":
                     {
@@ -147,7 +147,7 @@ namespace FormsApp1
                     }
                 case "button9":
                     {
-                        return Check_vertical(currentButtons, 3) || Check_horizental(currentButtons, 3) || Check_diagonal(currentButtons, 1) || Check_diagonal(currentButtons,2);
+                        return Check_vertical(currentButtons, 3) || Check_horizental(currentButtons, 3) || Check_diagonal(currentButtons, 1);
                     }
                 default: return false;
             }
